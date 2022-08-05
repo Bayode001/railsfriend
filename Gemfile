@@ -26,6 +26,7 @@ gem 'devise', '~> 4.8', '>= 4.8.1'
 group :production do
   gem 'pg', '~> 1.4', '>= 1.4.2'
   #gem 'rails_12factor', '0.0.2'
+  gem 'gmail-api-ruby', '~> 0.0.11'
 end
 
 
